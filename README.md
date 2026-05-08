@@ -1,2 +1,3 @@
-<h1 align="center">Hey, I'm LeBombusP</h1>
-I like to make web apps in nextjs and sveltekit
+<h1 align="center">Hi, I'm Alex or LeBombusP</h1>
+I constantly try to make apps, games, and embedded projects...
+With limited success (•𐃷•)
